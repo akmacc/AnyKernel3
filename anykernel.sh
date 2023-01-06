@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Origin Kernel by Patriot-06
+kernel.string=Anubis Kernel by Ak
 do.devicecheck=1
 do.modules=0
 do.systemless=1
