@@ -14,7 +14,7 @@ device.name1=RMX2081
 device.name2=RMX2085
 device.name3=RMX2081L1
 device.name4=RMX2085L1
-device.name5=
+device.name5=x3
 supported.versions=11-13
 supported.patchlevels=
 '; } # end properties
